@@ -85,12 +85,6 @@ pip install torch torchvision matplotlib numpy
 
 ---
 
-# How to Run
-
-```bash
-python cnn_classifier.py
-```
-
 The script will:
 - download the CIFAR-10 dataset
 - preprocess image data
