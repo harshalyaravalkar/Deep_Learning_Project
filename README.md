@@ -1,7 +1,7 @@
 # Deep_Learning_Project
 
 ## Company Name
-CODTECH IT SOLUTIONS
+CODTECH IT SOLUTIONS PRIVATE LIMITED
 
 ---
 
